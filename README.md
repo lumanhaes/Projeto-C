@@ -6,7 +6,7 @@ Baixe ou clone esse repositório em sua máquina
 
 Se usar qualquer distribuições Linux ou MacOS poderá usar o compilador GCC que já vem por padrão no SO
 
-Se for usar o Windows poderá baixar o compilador e instalar para poder iniciar o jogo, baixe no site https://www.mingw-w64.org/downloads/
+Se for usar o Windows poderá baixar o compilador e instalar para poder compilar e executar o programa, baixe no site https://www.mingw-w64.org/downloads/
 
 ####################################################################################
 
