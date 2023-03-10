@@ -1,8 +1,6 @@
-Jogo de advinhação criado com o intuito de aprender a linguagem C
-
 ####################################################################################
 
-INSTRUÇÕES PARA PODER INICIAR O JOGO:
+INSTRUÇÕES:
 
 Baixe ou clone esse repositório em sua máquina
 
